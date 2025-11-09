@@ -1,0 +1,13 @@
+st.title("👋 Hi, I'm Sudhir")
+st.subheader("Data Engineer | Machine Learning Enthusiast | AI Practitioner")
+st.write(
+    """
+    I specialize in transforming raw data into actionable insights, 
+    building end-to-end data pipelines, and applying machine learning models 
+    to solve real-world problems. My passion lies in exploring the intersection 
+    of data engineering and intelligent automation.
+    """
+)
+
+I am Sudhir Shivaram, a Machine Learning Engineer skilled in Deep Learning, NLP, and Data Engineering.  
+Passionate about building intelligent systems and solving real-world problems.
